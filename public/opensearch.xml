@@ -4,6 +4,6 @@
         Enter a Discord snowflake to get the timestamp
     </Description>
     <InputEncoding>UTF-8</InputEncoding>
-    <Image width="16" height="16" type="image/x-icon">https://snowsta.mp/favicon.ico</Image>
-    <Url type="text/html" method="get" template="https://snowsta.mp/?s={searchTerms}"/>
+    <Image width="16" height="16" type="image/x-icon">https://peppy-truffle-d7e0f5.netlify.app/favicon.ico</Image>
+    <Url type="text/html" method="get" template="https://peppy-truffle-d7e0f5.netlify.app/?s={searchTerms}"/>
 </OpenSearchDescription>
