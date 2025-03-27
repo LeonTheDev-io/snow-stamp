@@ -14,7 +14,7 @@
 				src={discord}
 				alt="Discord"
 				style="position: relative; top: 11px; margin-top: -11px;"
-			/><code>vegeta897#7777</code></span
+			/><code>vegeta897</code></span
 		>
 	</p>
 	<p>
@@ -29,7 +29,6 @@
 	</p>
 	<p style="line-height: 1.5em;">
 		Thank you to my sponsors:<br>
-		<code>Proxy#8342</code><br>
 		Timothy Williams<br>
 		<a href="https://github.com/sponsors/vegeta897"
 			><span style="text-decoration: none">&nbsp;💙</span> Donate</a
